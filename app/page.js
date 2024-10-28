@@ -26,7 +26,7 @@ function handleSubmitted() {
   setSubmitted(!isSubmitted);
 }
   return (
-    <main className='flex flex-col justify-center items-center min-h-screen px-5 py-5 bg-customRed bg-[url("./bg-intro-desktop.png")] bg-center' >
+    <main className='flex flex-col justify-center items-center min-h-screen px-5 py-5 bg-customRed bg-[url("/bg-intro-desktop.png")] bg-center' >
       <section className='flex flex-col items-center justify-center md:flex-row md:px-96 '>
         <div className='flex flex-col items-center justify-center md:mr-14'>
           <div className='flex flex-col items-center justify-center px-5 md:px-0 md:p-12'>
